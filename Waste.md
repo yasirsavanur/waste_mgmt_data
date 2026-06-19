@@ -66,7 +66,7 @@ This meant prioritising **absolute accuracy of the totals and KPIs** over a "cle
 
 ## 4. Dashboard Architecture (Power BI)
 
-![image](./imgs/dashboard_default.png)
+![image](./imgs/dashboard default.png)
 
 ### 4.1 Data Model — Star Schema
 
@@ -125,17 +125,17 @@ The **"(Blank)"** options visible in the Region and Fate slicers are intentional
 - **West Midlands (2024):** Transfer = 366 KT, Treatment = 530 KT
 - **East Midlands (2024):** Transfer = 320 KT, Treatment = 677 KT — the East Midlands processes notably more waste through direct treatment than its western neighbour.
 
-![image](./imgs/vol_of_waste_fate - 2024_east_midlands.png)
-![image](./imgs/vol_of_waste_fate - 2024_west_midlands.png)
+![image](./imgs/vol of waste fate - 2024 east midlands.png)
+![image](./imgs/vol of waste fate - 2024 west midlands.png)
 
 ### 5.3 Insight #2 — Regional Volumes by Waste Type
 - **Nationally, inbound (Received) waste is dominated by Mineral Wastes** — the heaviest, bulkiest category, with direct implications for road/rail freight planning.
-![image](./imgs/waste_type_vol_2024 - overall_received.png)
+![image](./imgs/waste type vol 2024 - overall received.png)
 - **Nationally, outbound (Removed) waste is dominated by Mixed Ordinary Wastes.**
-![image](./imgs/waste_type_vol 2024 - overall_removed.png)
+![image](./imgs/waste type vol 2024 - overall removed.png)
 - **Regional contrast (2024):** London's profile is Minerals > Mixed Ordinary Wastes, while **Yorkshire & Humber inverts this entirely** — Mixed Ordinary Wastes > Minerals — pointing to fundamentally different regional waste economies (construction-heavy vs. general municipal/commercial waste).
-![image](./imgs/waste_type_vol_2024 - london_both.png)
-![image](./imgs/waste_type_vol_2024 - Y&H_both.png)
+![image](./imgs/waste type vol 2024 - london both.png)
+![image](./imgs/waste type vol 2024 - Y&H both.png)
 
 ### 5.4 Insight #3 — Trends in Volumes & Flow (2023 vs 2024)
 - **Recovery (2023):** Yorkshire & Humber led the country at 32.6 MT total (11.7 MT net flow); the North East was lowest at 10.6 MT (2.8 MT net flow).
