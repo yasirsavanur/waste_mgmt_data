@@ -66,7 +66,7 @@ This meant prioritising **absolute accuracy of the totals and KPIs** over a "cle
 
 ## 4. Dashboard Architecture (Power BI)
 
-![alt text](./imgs/dashboard default.png)
+![alt text](./imgs/dashboard-default.png)
 
 ### 4.1 Data Model — Star Schema
 
@@ -125,23 +125,23 @@ The **"(Blank)"** options visible in the Region and Fate slicers are intentional
 - **West Midlands (2024):** Transfer = 366 KT, Treatment = 530 KT
 - **East Midlands (2024):** Transfer = 320 KT, Treatment = 677 KT — the East Midlands processes notably more waste through direct treatment than its western neighbour.
 
-![alt text](./imgs/vol of waste fate - 2024 east midlands.png)
-![alt text](./imgs/vol of waste fate - 2024 west midlands.png)
+![alt text](./imgs/vol-of-waste-fate-2024-east-midlands.png)
+![alt text](./imgs/vol-of-waste-fate-2024-west-midlands.png)
 
 ### 5.3 Insight #2 — Regional Volumes by Waste Type
 - **Nationally, inbound (Received) waste is dominated by Mineral Wastes** — the heaviest, bulkiest category, with direct implications for road/rail freight planning.
-![alt text](./imgs/waste type vol 2024 - overall received.png)
+![alt text](./imgs/waste-type-vol-2024-overall-received.png)
 - **Nationally, outbound (Removed) waste is dominated by Mixed Ordinary Wastes.**
-![alt text](./imgs/waste type vol 2024 - overall removed.png)
+![alt text](./imgs/waste-type-vol-2024-overall-removed.png)
 - **Regional contrast (2024):** London's profile is Minerals > Mixed Ordinary Wastes, while **Yorkshire & Humber inverts this entirely** — Mixed Ordinary Wastes > Minerals — pointing to fundamentally different regional waste economies (construction-heavy vs. general municipal/commercial waste).
-![alt text](./imgs/waste type vol 2024 - london both.png)
-![alt text](./imgs/waste type vol 2024 - Y&H both.png)
+![alt text](./imgs/waste-type-vol-2024-london-both.png)
+![alt text](./imgs/waste-type-vol-2024-Y&H-both.png)
 
 ### 5.4 Insight #3 — Trends in Volumes & Flow (2023 vs 2024)
 - **Recovery (2023):** Yorkshire & Humber led the country at 32.6 MT total (11.7 MT net flow); the North East was lowest at 10.6 MT (2.8 MT net flow).
-![alt text](./imgs/total_waste_flow_2023 - recovery_fate.png)
+![alt text](./imgs/total-waste-flow_2023-recovery-fate.png)
 - **Incineration (2024):** The South East led at 6.1 MT total (1.7 MT net flow); the North East was again lowest, at 2.4 MT.
-![alt text](./imgs/total_waste_flow_2024 - incineration_fate.png)
+![alt text](./imgs/total-waste-flow-2024-incineration-fate.png)
 - **Notable anomaly:** The **North West** showed a **negative net flow** in parts of the analysis (Removed > Received) — indicating the region was clearing a historical backlog rather than processing fresh, like-for-like waste.
 ---
 
